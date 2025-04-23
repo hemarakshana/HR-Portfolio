@@ -17,9 +17,7 @@ This is a responsive and customizable personal portfolio website built using mod
 - HTML5  
 - CSS3  
 - JavaScript  
-- React.js  
-- Node.js  
-- Express.js  
+- React.js 
 
 ---
 
