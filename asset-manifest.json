@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/HR-Portfolio/static/css/main.ecde22e5.css",
+    "main.js": "/HR-Portfolio/static/js/main.477aa723.js",
+    "static/js/770.b477def6.chunk.js": "/HR-Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/HR-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/grocerychecklist.png": "/HR-Portfolio/static/media/grocerychecklist.3e5f141a686567fe3de7.png",
+    "static/media/asianfestival.png": "/HR-Portfolio/static/media/asianfestival.ff54ceac9e3edc503152.png",
+    "static/media/streamit.png": "/HR-Portfolio/static/media/streamit.21c73e0cc7707ca38ad5.png",
+    "static/media/weatherapp.png": "/HR-Portfolio/static/media/weatherapp.b5186d758b87ca68eb24.png",
+    "static/media/burgerhouse.png": "/HR-Portfolio/static/media/burgerhouse.9bb48d9df0254e124e5f.png",
+    "static/media/modernclaci.png": "/HR-Portfolio/static/media/modernclaci.8f4c31c99525c1999e3d.png",
+    "static/media/taskmanagement.png": "/HR-Portfolio/static/media/taskmanagement.a26864bdc95c7da44f31.png",
+    "static/media/tictactoe.png": "/HR-Portfolio/static/media/tictactoe.0cf2ddb03759d72a1da8.png",
+    "static/media/digitalclock.png": "/HR-Portfolio/static/media/digitalclock.e97c0ffbc91f0ad9f2ae.png",
+    "static/media/pimpom.png": "/HR-Portfolio/static/media/pimpom.c81155a23858ccaf0906.png",
+    "static/media/simplybot.png": "/HR-Portfolio/static/media/simplybot.42c0bd8da1ef28f9c466.png",
+    "static/media/loginform.png": "/HR-Portfolio/static/media/loginform.db6e2744d0b2cb34a787.png",
+    "static/media/avatar.png": "/HR-Portfolio/static/media/avatar.ee3142a284a13c2ed976.png",
+    "static/media/home-main.svg": "/HR-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/HR-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Hemarakshana C.pdf": "/HR-Portfolio/static/media/Hemarakshana C.7cdb5d1feb351b902b53.pdf",
+    "static/media/logo.png": "/HR-Portfolio/static/media/logo.df9e853bb6eac0c0e86a.png",
+    "static/media/home-bg.jpg": "/HR-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/HR-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/HR-Portfolio/index.html",
+    "main.ecde22e5.css.map": "/HR-Portfolio/static/css/main.ecde22e5.css.map",
+    "main.477aa723.js.map": "/HR-Portfolio/static/js/main.477aa723.js.map",
+    "770.b477def6.chunk.js.map": "/HR-Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/HR-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecde22e5.css",
+    "static/js/main.477aa723.js"
+  ]
+}
